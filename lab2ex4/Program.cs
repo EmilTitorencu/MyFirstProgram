@@ -16,7 +16,7 @@ namespace lab2ex4
 
             while (n/10!=0)
             {
-                n = n / 10;
+                n /= 10;
                 nrCifre++;
             }
 
