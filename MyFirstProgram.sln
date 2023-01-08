@@ -35,15 +35,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab2ex3", "lab2ex3\lab2ex3.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab2ex4", "lab2ex4\lab2ex4.csproj", "{651CF15C-CEAF-49A8-81B4-46C113E37160}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3ex1", "lab3ex1\lab3ex1.csproj", "{54CEE3E9-F9C9-4B6D-9971-BCCF5D8BFB38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3ex1", "lab3ex1\lab3ex1.csproj", "{54CEE3E9-F9C9-4B6D-9971-BCCF5D8BFB38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3ex2", "lab3ex2\lab3ex2.csproj", "{2A200EF6-3683-42C0-BD13-CECB7D50A340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3ex2", "lab3ex2\lab3ex2.csproj", "{2A200EF6-3683-42C0-BD13-CECB7D50A340}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3ex3", "lab3ex3\lab3ex3.csproj", "{279E2C34-A031-414E-989F-2CC669EBAC74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3ex3", "lab3ex3\lab3ex3.csproj", "{279E2C34-A031-414E-989F-2CC669EBAC74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3ex4", "lab3ex4\lab3ex4.csproj", "{BFE1DE20-68BE-4B81-B617-09E1980A6C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3ex4", "lab3ex4\lab3ex4.csproj", "{BFE1DE20-68BE-4B81-B617-09E1980A6C5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3ex5", "lab3ex5\lab3ex5.csproj", "{4A0B82F0-2ADA-424D-8522-F67D9CAC235C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3ex5", "lab3ex5\lab3ex5.csproj", "{4A0B82F0-2ADA-424D-8522-F67D9CAC235C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4", "lab4\lab4.csproj", "{34BB2BAF-0E8C-4274-8EBF-0C6F53638BF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{4A0B82F0-2ADA-424D-8522-F67D9CAC235C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A0B82F0-2ADA-424D-8522-F67D9CAC235C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A0B82F0-2ADA-424D-8522-F67D9CAC235C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BB2BAF-0E8C-4274-8EBF-0C6F53638BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BB2BAF-0E8C-4274-8EBF-0C6F53638BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BB2BAF-0E8C-4274-8EBF-0C6F53638BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BB2BAF-0E8C-4274-8EBF-0C6F53638BF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
